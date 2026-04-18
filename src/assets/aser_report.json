@@ -1,0 +1,2306 @@
+[
+  {
+    "State": "Bihar",
+    "Year": "2018",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Divide",
+    "Value": "14.6"
+  },
+  {
+    "State": "Bihar",
+    "Year": "2018",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Recognise_10_99",
+    "Value": "26.9"
+  },
+  {
+    "State": "Bihar",
+    "Year": "2018",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Recognise_1_9",
+    "Value": "32.6"
+  },
+  {
+    "State": "Bihar",
+    "Year": "2018",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Subtract",
+    "Value": "13.9"
+  },
+  {
+    "State": "Bihar",
+    "Year": "2018",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Letter",
+    "Value": "26.6"
+  },
+  {
+    "State": "Bihar",
+    "Year": "2018",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Paragraph",
+    "Value": "10.7"
+  },
+  {
+    "State": "Bihar",
+    "Year": "2018",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Story",
+    "Value": "23.5"
+  },
+  {
+    "State": "Bihar",
+    "Year": "2018",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Word",
+    "Value": "15.2"
+  },
+  {
+    "State": "Bihar",
+    "Year": "2018",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Divide",
+    "Value": "29.9"
+  },
+  {
+    "State": "Bihar",
+    "Year": "2018",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Recognise_10_99",
+    "Value": "27.8"
+  },
+  {
+    "State": "Bihar",
+    "Year": "2018",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Recognise_1_9",
+    "Value": "18.6"
+  },
+  {
+    "State": "Bihar",
+    "Year": "2018",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Subtract",
+    "Value": "17.1"
+  },
+  {
+    "State": "Bihar",
+    "Year": "2018",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Letter",
+    "Value": "17.7"
+  },
+  {
+    "State": "Bihar",
+    "Year": "2018",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Paragraph",
+    "Value": "15.9"
+  },
+  {
+    "State": "Bihar",
+    "Year": "2018",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Story",
+    "Value": "41.3"
+  },
+  {
+    "State": "Bihar",
+    "Year": "2018",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Word",
+    "Value": "12.5"
+  },
+  {
+    "State": "Bihar",
+    "Year": "2022",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Divide",
+    "Value": "14.4"
+  },
+  {
+    "State": "Bihar",
+    "Year": "2022",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Recognise_10_99",
+    "Value": "28.5"
+  },
+  {
+    "State": "Bihar",
+    "Year": "2022",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Recognise_1_9",
+    "Value": "28.7"
+  },
+  {
+    "State": "Bihar",
+    "Year": "2022",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Subtract",
+    "Value": "14.3"
+  },
+  {
+    "State": "Bihar",
+    "Year": "2022",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Letter",
+    "Value": "30.2"
+  },
+  {
+    "State": "Bihar",
+    "Year": "2022",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Paragraph",
+    "Value": "10.7"
+  },
+  {
+    "State": "Bihar",
+    "Year": "2022",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Story",
+    "Value": "19.8"
+  },
+  {
+    "State": "Bihar",
+    "Year": "2022",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Word",
+    "Value": "16.3"
+  },
+  {
+    "State": "Bihar",
+    "Year": "2022",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Divide",
+    "Value": "35.4"
+  },
+  {
+    "State": "Bihar",
+    "Year": "2022",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Recognise_10_99",
+    "Value": "25.3"
+  },
+  {
+    "State": "Bihar",
+    "Year": "2022",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Recognise_1_9",
+    "Value": "15.4"
+  },
+  {
+    "State": "Bihar",
+    "Year": "2022",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Subtract",
+    "Value": "19.5"
+  },
+  {
+    "State": "Bihar",
+    "Year": "2022",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Letter",
+    "Value": "19.0"
+  },
+  {
+    "State": "Bihar",
+    "Year": "2022",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Paragraph",
+    "Value": "16.0"
+  },
+  {
+    "State": "Bihar",
+    "Year": "2022",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Story",
+    "Value": "42.4"
+  },
+  {
+    "State": "Bihar",
+    "Year": "2022",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Word",
+    "Value": "13.6"
+  },
+  {
+    "State": "Bihar",
+    "Year": "2024",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Divide",
+    "Value": "19.5"
+  },
+  {
+    "State": "Bihar",
+    "Year": "2024",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Recognise_10_99",
+    "Value": "29.8"
+  },
+  {
+    "State": "Bihar",
+    "Year": "2024",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Recognise_1_9",
+    "Value": "26.3"
+  },
+  {
+    "State": "Bihar",
+    "Year": "2024",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Subtract",
+    "Value": "17.9"
+  },
+  {
+    "State": "Bihar",
+    "Year": "2024",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Letter",
+    "Value": "29.1"
+  },
+  {
+    "State": "Bihar",
+    "Year": "2024",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Paragraph",
+    "Value": "14.7"
+  },
+  {
+    "State": "Bihar",
+    "Year": "2024",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Story",
+    "Value": "26.1"
+  },
+  {
+    "State": "Bihar",
+    "Year": "2024",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Word",
+    "Value": "17.4"
+  },
+  {
+    "State": "Bihar",
+    "Year": "2024",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Divide",
+    "Value": "36.0"
+  },
+  {
+    "State": "Bihar",
+    "Year": "2024",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Recognise_10_99",
+    "Value": "27.0"
+  },
+  {
+    "State": "Bihar",
+    "Year": "2024",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Recognise_1_9",
+    "Value": "13.8"
+  },
+  {
+    "State": "Bihar",
+    "Year": "2024",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Subtract",
+    "Value": "19.7"
+  },
+  {
+    "State": "Bihar",
+    "Year": "2024",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Letter",
+    "Value": "18.6"
+  },
+  {
+    "State": "Bihar",
+    "Year": "2024",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Paragraph",
+    "Value": "16.7"
+  },
+  {
+    "State": "Bihar",
+    "Year": "2024",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Story",
+    "Value": "43.6"
+  },
+  {
+    "State": "Bihar",
+    "Year": "2024",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Word",
+    "Value": "13.5"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": "2018",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Divide",
+    "Value": "2.4"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": "2018",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Recognise_10_99",
+    "Value": "39.6"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": "2018",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Recognise_1_9",
+    "Value": "34.5"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": "2018",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Subtract",
+    "Value": "16.9"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": "2018",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Letter",
+    "Value": "25.4"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": "2018",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Paragraph",
+    "Value": "16.5"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": "2018",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Story",
+    "Value": "29.8"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": "2018",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Word",
+    "Value": "17.8"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": "2018",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Divide",
+    "Value": "26.8"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": "2018",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Recognise_10_99",
+    "Value": "32.6"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": "2018",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Recognise_1_9",
+    "Value": "17.4"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": "2018",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Subtract",
+    "Value": "21.6"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": "2018",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Letter",
+    "Value": "12.1"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": "2018",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Paragraph",
+    "Value": "15.8"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": "2018",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Story",
+    "Value": "59.5"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": "2018",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Word",
+    "Value": "9.3"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": "2022",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Divide",
+    "Value": "3.8"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": "2022",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Recognise_10_99",
+    "Value": "34.2"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": "2022",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Recognise_1_9",
+    "Value": "39.7"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": "2022",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Subtract",
+    "Value": "15.8"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": "2022",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Letter",
+    "Value": "32.8"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": "2022",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Paragraph",
+    "Value": "15.4"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": "2022",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Story",
+    "Value": "24.2"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": "2022",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Word",
+    "Value": "14.6"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": "2022",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Divide",
+    "Value": "24.9"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": "2022",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Recognise_10_99",
+    "Value": "29.4"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": "2022",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Recognise_1_9",
+    "Value": "19.7"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": "2022",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Subtract",
+    "Value": "24.0"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": "2022",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Letter",
+    "Value": "14.9"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": "2022",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Paragraph",
+    "Value": "16.4"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": "2022",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Story",
+    "Value": "55.2"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": "2022",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Word",
+    "Value": "8.3"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": "2024",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Divide",
+    "Value": "4.6"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": "2024",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Recognise_10_99",
+    "Value": "39.6"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": "2024",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Recognise_1_9",
+    "Value": "32.3"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": "2024",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Subtract",
+    "Value": "18.7"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": "2024",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Letter",
+    "Value": "27.9"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": "2024",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Paragraph",
+    "Value": "18.8"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": "2024",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Story",
+    "Value": "24.9"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": "2024",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Word",
+    "Value": "20.3"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": "2024",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Divide",
+    "Value": "25.7"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": "2024",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Recognise_10_99",
+    "Value": "35.7"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": "2024",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Recognise_1_9",
+    "Value": "13.8"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": "2024",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Subtract",
+    "Value": "23.3"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": "2024",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Letter",
+    "Value": "9.8"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": "2024",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Paragraph",
+    "Value": "21.6"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": "2024",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Story",
+    "Value": "54.4"
+  },
+  {
+    "State": "Chhattisgarh",
+    "Year": "2024",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Word",
+    "Value": "10.7"
+  },
+  {
+    "State": "Jharkhand",
+    "Year": "2018",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Divide",
+    "Value": "8.7"
+  },
+  {
+    "State": "Jharkhand",
+    "Year": "2018",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Recognise_10_99",
+    "Value": "30.4"
+  },
+  {
+    "State": "Jharkhand",
+    "Year": "2018",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Recognise_1_9",
+    "Value": "35.1"
+  },
+  {
+    "State": "Jharkhand",
+    "Year": "2018",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Subtract",
+    "Value": "13.8"
+  },
+  {
+    "State": "Jharkhand",
+    "Year": "2018",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Letter",
+    "Value": "29.6"
+  },
+  {
+    "State": "Jharkhand",
+    "Year": "2018",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Paragraph",
+    "Value": "12.7"
+  },
+  {
+    "State": "Jharkhand",
+    "Year": "2018",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Story",
+    "Value": "18.8"
+  },
+  {
+    "State": "Jharkhand",
+    "Year": "2018",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Word",
+    "Value": "21.9"
+  },
+  {
+    "State": "Jharkhand",
+    "Year": "2018",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Divide",
+    "Value": "19.1"
+  },
+  {
+    "State": "Jharkhand",
+    "Year": "2018",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Recognise_10_99",
+    "Value": "34.5"
+  },
+  {
+    "State": "Jharkhand",
+    "Year": "2018",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Recognise_1_9",
+    "Value": "18.7"
+  },
+  {
+    "State": "Jharkhand",
+    "Year": "2018",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Subtract",
+    "Value": "23.2"
+  },
+  {
+    "State": "Jharkhand",
+    "Year": "2018",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Letter",
+    "Value": "18.6"
+  },
+  {
+    "State": "Jharkhand",
+    "Year": "2018",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Paragraph",
+    "Value": "21.1"
+  },
+  {
+    "State": "Jharkhand",
+    "Year": "2018",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Story",
+    "Value": "34.3"
+  },
+  {
+    "State": "Jharkhand",
+    "Year": "2018",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Word",
+    "Value": "18.0"
+  },
+  {
+    "State": "Jharkhand",
+    "Year": "2022",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Divide",
+    "Value": "7.9"
+  },
+  {
+    "State": "Jharkhand",
+    "Year": "2022",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Recognise_10_99",
+    "Value": "30.3"
+  },
+  {
+    "State": "Jharkhand",
+    "Year": "2022",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Recognise_1_9",
+    "Value": "36.5"
+  },
+  {
+    "State": "Jharkhand",
+    "Year": "2022",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Subtract",
+    "Value": "14.7"
+  },
+  {
+    "State": "Jharkhand",
+    "Year": "2022",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Letter",
+    "Value": "36.7"
+  },
+  {
+    "State": "Jharkhand",
+    "Year": "2022",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Paragraph",
+    "Value": "12.5"
+  },
+  {
+    "State": "Jharkhand",
+    "Year": "2022",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Story",
+    "Value": "14.2"
+  },
+  {
+    "State": "Jharkhand",
+    "Year": "2022",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Word",
+    "Value": "20.2"
+  },
+  {
+    "State": "Jharkhand",
+    "Year": "2022",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Divide",
+    "Value": "24.5"
+  },
+  {
+    "State": "Jharkhand",
+    "Year": "2022",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Recognise_10_99",
+    "Value": "30.7"
+  },
+  {
+    "State": "Jharkhand",
+    "Year": "2022",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Recognise_1_9",
+    "Value": "19.0"
+  },
+  {
+    "State": "Jharkhand",
+    "Year": "2022",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Subtract",
+    "Value": "22.8"
+  },
+  {
+    "State": "Jharkhand",
+    "Year": "2022",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Letter",
+    "Value": "21.2"
+  },
+  {
+    "State": "Jharkhand",
+    "Year": "2022",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Paragraph",
+    "Value": "18.2"
+  },
+  {
+    "State": "Jharkhand",
+    "Year": "2022",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Story",
+    "Value": "35.6"
+  },
+  {
+    "State": "Jharkhand",
+    "Year": "2022",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Word",
+    "Value": "19.1"
+  },
+  {
+    "State": "Jharkhand",
+    "Year": "2024",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Divide",
+    "Value": "11.1"
+  },
+  {
+    "State": "Jharkhand",
+    "Year": "2024",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Recognise_10_99",
+    "Value": "34.5"
+  },
+  {
+    "State": "Jharkhand",
+    "Year": "2024",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Recognise_1_9",
+    "Value": "27.3"
+  },
+  {
+    "State": "Jharkhand",
+    "Year": "2024",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Subtract",
+    "Value": "20.6"
+  },
+  {
+    "State": "Jharkhand",
+    "Year": "2024",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Letter",
+    "Value": "26.8"
+  },
+  {
+    "State": "Jharkhand",
+    "Year": "2024",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Paragraph",
+    "Value": "19.3"
+  },
+  {
+    "State": "Jharkhand",
+    "Year": "2024",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Story",
+    "Value": "19.6"
+  },
+  {
+    "State": "Jharkhand",
+    "Year": "2024",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Word",
+    "Value": "24.2"
+  },
+  {
+    "State": "Jharkhand",
+    "Year": "2024",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Divide",
+    "Value": "30.4"
+  },
+  {
+    "State": "Jharkhand",
+    "Year": "2024",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Recognise_10_99",
+    "Value": "30.3"
+  },
+  {
+    "State": "Jharkhand",
+    "Year": "2024",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Recognise_1_9",
+    "Value": "12.4"
+  },
+  {
+    "State": "Jharkhand",
+    "Year": "2024",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Subtract",
+    "Value": "24.1"
+  },
+  {
+    "State": "Jharkhand",
+    "Year": "2024",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Letter",
+    "Value": "14.1"
+  },
+  {
+    "State": "Jharkhand",
+    "Year": "2024",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Paragraph",
+    "Value": "20.8"
+  },
+  {
+    "State": "Jharkhand",
+    "Year": "2024",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Story",
+    "Value": "45.3"
+  },
+  {
+    "State": "Jharkhand",
+    "Year": "2024",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Word",
+    "Value": "15.8"
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Year": "2018",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Divide",
+    "Value": "4.1"
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Year": "2018",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Recognise_10_99",
+    "Value": "33.6"
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Year": "2018",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Recognise_1_9",
+    "Value": "40.7"
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Year": "2018",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Subtract",
+    "Value": "9.8"
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Year": "2018",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Letter",
+    "Value": "36.4"
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Year": "2018",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Paragraph",
+    "Value": "13.4"
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Year": "2018",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Story",
+    "Value": "17.6"
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Year": "2018",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Word",
+    "Value": "17.3"
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Year": "2018",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Divide",
+    "Value": "19.8"
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Year": "2018",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Recognise_10_99",
+    "Value": "34.7"
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Year": "2018",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Recognise_1_9",
+    "Value": "23.4"
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Year": "2018",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Subtract",
+    "Value": "17.7"
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Year": "2018",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Letter",
+    "Value": "19.2"
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Year": "2018",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Paragraph",
+    "Value": "16.9"
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Year": "2018",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Story",
+    "Value": "41.6"
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Year": "2018",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Word",
+    "Value": "15.1"
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Year": "2022",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Divide",
+    "Value": "4.2"
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Year": "2022",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Recognise_10_99",
+    "Value": "30.0"
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Year": "2022",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Recognise_1_9",
+    "Value": "40.3"
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Year": "2022",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Subtract",
+    "Value": "10.9"
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Year": "2022",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Letter",
+    "Value": "41.2"
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Year": "2022",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Paragraph",
+    "Value": "10.9"
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Year": "2022",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Story",
+    "Value": "12.1"
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Year": "2022",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Word",
+    "Value": "16.2"
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Year": "2022",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Divide",
+    "Value": "19.1"
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Year": "2022",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Recognise_10_99",
+    "Value": "32.4"
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Year": "2022",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Recognise_1_9",
+    "Value": "24.0"
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Year": "2022",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Subtract",
+    "Value": "19.0"
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Year": "2022",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Letter",
+    "Value": "24.3"
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Year": "2022",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Paragraph",
+    "Value": "17.1"
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Year": "2022",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Story",
+    "Value": "35.6"
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Year": "2022",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Word",
+    "Value": "14.2"
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Year": "2024",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Divide",
+    "Value": "5.2"
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Year": "2024",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Recognise_10_99",
+    "Value": "36.6"
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Year": "2024",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Recognise_1_9",
+    "Value": "38.4"
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Year": "2024",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Subtract",
+    "Value": "12.3"
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Year": "2024",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Letter",
+    "Value": "35.5"
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Year": "2024",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Paragraph",
+    "Value": "16.1"
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Year": "2024",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Story",
+    "Value": "18.8"
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Year": "2024",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Word",
+    "Value": "19.4"
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Year": "2024",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Divide",
+    "Value": "21.7"
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Year": "2024",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Recognise_10_99",
+    "Value": "36.6"
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Year": "2024",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Recognise_1_9",
+    "Value": "19.5"
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Year": "2024",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Subtract",
+    "Value": "19.3"
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Year": "2024",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Letter",
+    "Value": "18.3"
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Year": "2024",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Paragraph",
+    "Value": "18.9"
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Year": "2024",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Story",
+    "Value": "43.7"
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Year": "2024",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Word",
+    "Value": "14.9"
+  },
+  {
+    "State": "Rajasthan",
+    "Year": "2018",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Divide",
+    "Value": "5.0"
+  },
+  {
+    "State": "Rajasthan",
+    "Year": "2018",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Recognise_10_99",
+    "Value": "33.8"
+  },
+  {
+    "State": "Rajasthan",
+    "Year": "2018",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Recognise_1_9",
+    "Value": "40.8"
+  },
+  {
+    "State": "Rajasthan",
+    "Year": "2018",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Subtract",
+    "Value": "12.4"
+  },
+  {
+    "State": "Rajasthan",
+    "Year": "2018",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Letter",
+    "Value": "30.9"
+  },
+  {
+    "State": "Rajasthan",
+    "Year": "2018",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Paragraph",
+    "Value": "16.3"
+  },
+  {
+    "State": "Rajasthan",
+    "Year": "2018",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Story",
+    "Value": "20.4"
+  },
+  {
+    "State": "Rajasthan",
+    "Year": "2018",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Word",
+    "Value": "18.3"
+  },
+  {
+    "State": "Rajasthan",
+    "Year": "2018",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Divide",
+    "Value": "23.3"
+  },
+  {
+    "State": "Rajasthan",
+    "Year": "2018",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Recognise_10_99",
+    "Value": "32.3"
+  },
+  {
+    "State": "Rajasthan",
+    "Year": "2018",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Recognise_1_9",
+    "Value": "18.8"
+  },
+  {
+    "State": "Rajasthan",
+    "Year": "2018",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Subtract",
+    "Value": "23.4"
+  },
+  {
+    "State": "Rajasthan",
+    "Year": "2018",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Letter",
+    "Value": "12.3"
+  },
+  {
+    "State": "Rajasthan",
+    "Year": "2018",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Paragraph",
+    "Value": "20.6"
+  },
+  {
+    "State": "Rajasthan",
+    "Year": "2018",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Story",
+    "Value": "49.1"
+  },
+  {
+    "State": "Rajasthan",
+    "Year": "2018",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Word",
+    "Value": "14.1"
+  },
+  {
+    "State": "Rajasthan",
+    "Year": "2022",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Divide",
+    "Value": "3.0"
+  },
+  {
+    "State": "Rajasthan",
+    "Year": "2022",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Recognise_10_99",
+    "Value": "33.0"
+  },
+  {
+    "State": "Rajasthan",
+    "Year": "2022",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Recognise_1_9",
+    "Value": "40.0"
+  },
+  {
+    "State": "Rajasthan",
+    "Year": "2022",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Subtract",
+    "Value": "8.8"
+  },
+  {
+    "State": "Rajasthan",
+    "Year": "2022",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Letter",
+    "Value": "36.8"
+  },
+  {
+    "State": "Rajasthan",
+    "Year": "2022",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Paragraph",
+    "Value": "11.1"
+  },
+  {
+    "State": "Rajasthan",
+    "Year": "2022",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Story",
+    "Value": "14.2"
+  },
+  {
+    "State": "Rajasthan",
+    "Year": "2022",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Word",
+    "Value": "15.9"
+  },
+  {
+    "State": "Rajasthan",
+    "Year": "2022",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Divide",
+    "Value": "13.3"
+  },
+  {
+    "State": "Rajasthan",
+    "Year": "2022",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Recognise_10_99",
+    "Value": "38.4"
+  },
+  {
+    "State": "Rajasthan",
+    "Year": "2022",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Recognise_1_9",
+    "Value": "24.6"
+  },
+  {
+    "State": "Rajasthan",
+    "Year": "2022",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Subtract",
+    "Value": "17.3"
+  },
+  {
+    "State": "Rajasthan",
+    "Year": "2022",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Letter",
+    "Value": "20.5"
+  },
+  {
+    "State": "Rajasthan",
+    "Year": "2022",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Paragraph",
+    "Value": "16.0"
+  },
+  {
+    "State": "Rajasthan",
+    "Year": "2022",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Story",
+    "Value": "38.2"
+  },
+  {
+    "State": "Rajasthan",
+    "Year": "2022",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Word",
+    "Value": "15.3"
+  },
+  {
+    "State": "Rajasthan",
+    "Year": "2024",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Divide",
+    "Value": "5.7"
+  },
+  {
+    "State": "Rajasthan",
+    "Year": "2024",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Recognise_10_99",
+    "Value": "34.7"
+  },
+  {
+    "State": "Rajasthan",
+    "Year": "2024",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Recognise_1_9",
+    "Value": "38.2"
+  },
+  {
+    "State": "Rajasthan",
+    "Year": "2024",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Subtract",
+    "Value": "14.3"
+  },
+  {
+    "State": "Rajasthan",
+    "Year": "2024",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Letter",
+    "Value": "34.8"
+  },
+  {
+    "State": "Rajasthan",
+    "Year": "2024",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Paragraph",
+    "Value": "16.3"
+  },
+  {
+    "State": "Rajasthan",
+    "Year": "2024",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Story",
+    "Value": "18.6"
+  },
+  {
+    "State": "Rajasthan",
+    "Year": "2024",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Word",
+    "Value": "18.7"
+  },
+  {
+    "State": "Rajasthan",
+    "Year": "2024",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Divide",
+    "Value": "21.9"
+  },
+  {
+    "State": "Rajasthan",
+    "Year": "2024",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Recognise_10_99",
+    "Value": "34.1"
+  },
+  {
+    "State": "Rajasthan",
+    "Year": "2024",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Recognise_1_9",
+    "Value": "19.4"
+  },
+  {
+    "State": "Rajasthan",
+    "Year": "2024",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Subtract",
+    "Value": "21.9"
+  },
+  {
+    "State": "Rajasthan",
+    "Year": "2024",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Letter",
+    "Value": "15.6"
+  },
+  {
+    "State": "Rajasthan",
+    "Year": "2024",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Paragraph",
+    "Value": "18.3"
+  },
+  {
+    "State": "Rajasthan",
+    "Year": "2024",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Story",
+    "Value": "47.6"
+  },
+  {
+    "State": "Rajasthan",
+    "Year": "2024",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Word",
+    "Value": "13.1"
+  },
+  {
+    "State": "Uttar Pradesh",
+    "Year": "2018",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Divide",
+    "Value": "11.4"
+  },
+  {
+    "State": "Uttar Pradesh",
+    "Year": "2018",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Recognise_10_99",
+    "Value": "30.7"
+  },
+  {
+    "State": "Uttar Pradesh",
+    "Year": "2018",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Recognise_1_9",
+    "Value": "33.2"
+  },
+  {
+    "State": "Uttar Pradesh",
+    "Year": "2018",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Subtract",
+    "Value": "15.2"
+  },
+  {
+    "State": "Uttar Pradesh",
+    "Year": "2018",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Letter",
+    "Value": "27.2"
+  },
+  {
+    "State": "Uttar Pradesh",
+    "Year": "2018",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Paragraph",
+    "Value": "14.0"
+  },
+  {
+    "State": "Uttar Pradesh",
+    "Year": "2018",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Story",
+    "Value": "28.1"
+  },
+  {
+    "State": "Uttar Pradesh",
+    "Year": "2018",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Word",
+    "Value": "15.7"
+  },
+  {
+    "State": "Uttar Pradesh",
+    "Year": "2018",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Divide",
+    "Value": "29.7"
+  },
+  {
+    "State": "Uttar Pradesh",
+    "Year": "2018",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Recognise_10_99",
+    "Value": "27.9"
+  },
+  {
+    "State": "Uttar Pradesh",
+    "Year": "2018",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Recognise_1_9",
+    "Value": "17.7"
+  },
+  {
+    "State": "Uttar Pradesh",
+    "Year": "2018",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Subtract",
+    "Value": "20.2"
+  },
+  {
+    "State": "Uttar Pradesh",
+    "Year": "2018",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Letter",
+    "Value": "14.6"
+  },
+  {
+    "State": "Uttar Pradesh",
+    "Year": "2018",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Paragraph",
+    "Value": "14.8"
+  },
+  {
+    "State": "Uttar Pradesh",
+    "Year": "2018",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Story",
+    "Value": "52.0"
+  },
+  {
+    "State": "Uttar Pradesh",
+    "Year": "2018",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Word",
+    "Value": "10.9"
+  },
+  {
+    "State": "Uttar Pradesh",
+    "Year": "2022",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Divide",
+    "Value": "12.6"
+  },
+  {
+    "State": "Uttar Pradesh",
+    "Year": "2022",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Recognise_10_99",
+    "Value": "32.6"
+  },
+  {
+    "State": "Uttar Pradesh",
+    "Year": "2022",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Recognise_1_9",
+    "Value": "29.2"
+  },
+  {
+    "State": "Uttar Pradesh",
+    "Year": "2022",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Subtract",
+    "Value": "16.1"
+  },
+  {
+    "State": "Uttar Pradesh",
+    "Year": "2022",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Letter",
+    "Value": "31.1"
+  },
+  {
+    "State": "Uttar Pradesh",
+    "Year": "2022",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Paragraph",
+    "Value": "12.8"
+  },
+  {
+    "State": "Uttar Pradesh",
+    "Year": "2022",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Story",
+    "Value": "23.9"
+  },
+  {
+    "State": "Uttar Pradesh",
+    "Year": "2022",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Word",
+    "Value": "18.4"
+  },
+  {
+    "State": "Uttar Pradesh",
+    "Year": "2022",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Divide",
+    "Value": "31.6"
+  },
+  {
+    "State": "Uttar Pradesh",
+    "Year": "2022",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Recognise_10_99",
+    "Value": "27.3"
+  },
+  {
+    "State": "Uttar Pradesh",
+    "Year": "2022",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Recognise_1_9",
+    "Value": "17.7"
+  },
+  {
+    "State": "Uttar Pradesh",
+    "Year": "2022",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Subtract",
+    "Value": "19.2"
+  },
+  {
+    "State": "Uttar Pradesh",
+    "Year": "2022",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Letter",
+    "Value": "18.2"
+  },
+  {
+    "State": "Uttar Pradesh",
+    "Year": "2022",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Paragraph",
+    "Value": "15.7"
+  },
+  {
+    "State": "Uttar Pradesh",
+    "Year": "2022",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Story",
+    "Value": "46.3"
+  },
+  {
+    "State": "Uttar Pradesh",
+    "Year": "2022",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Word",
+    "Value": "13.0"
+  },
+  {
+    "State": "Uttar Pradesh",
+    "Year": "2024",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Divide",
+    "Value": "16.4"
+  },
+  {
+    "State": "Uttar Pradesh",
+    "Year": "2024",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Recognise_10_99",
+    "Value": "31.2"
+  },
+  {
+    "State": "Uttar Pradesh",
+    "Year": "2024",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Recognise_1_9",
+    "Value": "23.0"
+  },
+  {
+    "State": "Uttar Pradesh",
+    "Year": "2024",
+    "Grade": "3",
+    "Type": "Arithmetic",
+    "Level": "Subtract",
+    "Value": "24.2"
+  },
+  {
+    "State": "Uttar Pradesh",
+    "Year": "2024",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Letter",
+    "Value": "21.5"
+  },
+  {
+    "State": "Uttar Pradesh",
+    "Year": "2024",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Paragraph",
+    "Value": "19.0"
+  },
+  {
+    "State": "Uttar Pradesh",
+    "Year": "2024",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Story",
+    "Value": "34.3"
+  },
+  {
+    "State": "Uttar Pradesh",
+    "Year": "2024",
+    "Grade": "3",
+    "Type": "Reading",
+    "Level": "Word",
+    "Value": "17.6"
+  },
+  {
+    "State": "Uttar Pradesh",
+    "Year": "2024",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Divide",
+    "Value": "39.4"
+  },
+  {
+    "State": "Uttar Pradesh",
+    "Year": "2024",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Recognise_10_99",
+    "Value": "23.9"
+  },
+  {
+    "State": "Uttar Pradesh",
+    "Year": "2024",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Recognise_1_9",
+    "Value": "11.4"
+  },
+  {
+    "State": "Uttar Pradesh",
+    "Year": "2024",
+    "Grade": "5",
+    "Type": "Arithmetic",
+    "Level": "Subtract",
+    "Value": "23.2"
+  },
+  {
+    "State": "Uttar Pradesh",
+    "Year": "2024",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Letter",
+    "Value": "10.8"
+  },
+  {
+    "State": "Uttar Pradesh",
+    "Year": "2024",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Paragraph",
+    "Value": "18.4"
+  },
+  {
+    "State": "Uttar Pradesh",
+    "Year": "2024",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Story",
+    "Value": "56.4"
+  },
+  {
+    "State": "Uttar Pradesh",
+    "Year": "2024",
+    "Grade": "5",
+    "Type": "Reading",
+    "Level": "Word",
+    "Value": "10.6"
+  }
+]
